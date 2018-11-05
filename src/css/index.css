@@ -45,5 +45,6 @@ body {
         text-align: center;
         padding-left: 10px;
         box-sizing: border-box;
-        border-left: 1px solid #ccc;
+        border-left: 1px solid #ccc; }
+      .con .list li .active {
         background: #326eac; }

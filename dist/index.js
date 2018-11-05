@@ -1,0 +1,1 @@
+$("li").on("click","b",function(){console.log(1)});
